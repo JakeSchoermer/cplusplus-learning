@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jake Schoermer\\Source\\c\u002B\u002B-learning\\jethro-asks\\JethroAsks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7282295-9A75-4BF5-906B-4849F4BCBFE0}|JethroAsks\\JethroAsks.vcxproj|C:\\Users\\Jake Schoermer\\Source\\c\u002B\u002B-learning\\jethro-asks\\JethroAsks\\JethroAsks\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7282295-9A75-4BF5-906B-4849F4BCBFE0}|JethroAsks\\JethroAsks.vcxproj|solutionrelative:JethroAsks\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Jake Schoermer\\Source\\c\u002B\u002B-learning\\jethro-asks\\JethroAsks\\JethroAsks\\main.cpp",
+              "RelativeDocumentMoniker": "JethroAsks\\main.cpp",
+              "ToolTip": "C:\\Users\\Jake Schoermer\\Source\\c\u002B\u002B-learning\\jethro-asks\\JethroAsks\\JethroAsks\\main.cpp",
+              "RelativeToolTip": "JethroAsks\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-17T10:10:34.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
